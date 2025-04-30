@@ -1,4 +1,4 @@
-# SER in White Noise
+# SER in White Noise using TensorFlow
 
 This project is part of my MSc Language Sciences: Technology of Language and Speech dissertation. Please note that this is a WIP, and will undergo significant changes in the coming months.
 
