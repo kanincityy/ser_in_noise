@@ -88,7 +88,7 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 
 **Tatiana Limonova**  
 *MSc Language Sciences (Technology of Language and Speech) – UCL*  
-[GitHub](https://github.com/kanincityy) • [LinkedIn](https://linkedin.com/in/tatianalimonova)
+[GitHub](https://github.com/kanincityy) • [LinkedIn](https://www.linkedin.com/in/tatiana-limonova/)
 
 ---
 
