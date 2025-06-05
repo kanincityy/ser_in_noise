@@ -1,6 +1,6 @@
 # Speech Emotion Recognition in White Noise
 
-This project investigates the impact of **white noise and signal-to-noise ratio (SNR)** on **Speech Emotion Recognition (SER)** — a key challenge for deploying SER systems in real-world, acoustically adverse environments (e.g., public transport, hearing aids, assistive tech).
+This project investigates the impact of **white noise and signal-to-noise ratio (SNR)** on **Speech Emotion Recognition (SER)**, a key challenge for deploying SER systems in real-world, acoustically adverse environments (e.g., public transport, hearing aids, assistive tech).
 
 > This research is part of my MSc dissertation in Language Sciences: Technology of Language and Speech @ UCL.
 
