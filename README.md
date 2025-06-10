@@ -43,7 +43,7 @@ This project investigates the impact of **white noise and signal-to-noise ratio 
 
 Initial analysis of the **RAVDESS** dataset (Livingstone & Russo, 2018) was conducted in Google Colab.
 
-EDA Notebook: *Coming soon*
+**Colab Notebook:** [RAVDESS EDA](https://colab.research.google.com/drive/1c7JrjAKYU9K0d4pXPbrYrWmWMo90c8Is?usp=sharing)
 
 ---
 
